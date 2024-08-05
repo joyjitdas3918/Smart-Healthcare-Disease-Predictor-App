@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "30346209467",
+    "project_id": "diagnoscope-29e97",
+    "storage_bucket": "diagnoscope-29e97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30346209467:android:5e5965e5bb3f57c996619e",
+        "android_client_info": {
+          "package_name": "com.example.smart_healthcare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC2MKvsHAMV8q7o9F6yWnWF2-sfTpeG8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
